@@ -24,7 +24,6 @@ body {
   flex-direction: row;
 }
 
-/* forward & Back buttons */
 .Back, .forward {
   cursor: pointer;
   position: absolute;
